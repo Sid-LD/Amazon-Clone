@@ -1,0 +1,9 @@
+@keyframes name{
+    from{transform:translate(20px);}
+    to{transform:translate(800px)}
+}
+div{
+    color:blue;
+    font-size:0.86re;
+    animation:name 5s ease-in 0s infinite alternate
+}
